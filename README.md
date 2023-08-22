@@ -32,9 +32,9 @@ Creating an AI companion to navigate through the maze of existence.
 
 ## Dream Project
 Developing a virus to eradicate all bugs from the system of life.
--->
-> "The world is built on a wall; it's your job to tear it down." - Mr. Robot
 
+> "The world is built on a wall; it's your job to tear it down." - Mr. Robot
+-->
 ## Status
 Compiling dreams into reality...
 
