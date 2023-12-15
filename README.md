@@ -44,6 +44,7 @@ Compiling dreams into reality...
 - [DeviantArt](https://deviantart.com/DigitalPhantom)
 - [Personal Blog](link-to-your-blog)
 -->
+<script src="https://tryhackme.com/badge/2128819"></script>
 
 Remember, reality is just a construct, and the source code of our lives awaits exploration. Let's rewrite the algorithms of existence together.
 
