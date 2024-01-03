@@ -3,7 +3,7 @@
 Cyber Security undergraduate at SLIIT
 --------------------------------
 
-<img align="right" height="160rem" alt="GIF" src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif" />
+<img align="right" height="150rem" alt="GIF" src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif" />
 
 * 🌍  I'm based in Sri Lanka
 * ⚡  Cyber Security Undergrad at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/)
