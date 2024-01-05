@@ -1,5 +1,5 @@
 ![enter image description here](https://media.licdn.com/dms/image/D4E16AQHBB3iUKvDglQ/profile-displaybackgroundimage-shrink_350_1400/0/1702385113139?e=1709769600&v=beta&t=9YFAFLhTh3tor8F-9eDfqM0-9YvZSuuFAapOaSxI9U8)
-<script src='http://code.jquery.com/jquery-1.4.2.min.js' /><script type='text/javascript'>
+
 
 # Hello, I'm Anuradha Lakshman
 Cyber Security undergraduate at SLIIT
@@ -37,7 +37,7 @@ Cyber Security undergraduate at SLIIT
 <a href="https://www.github.com/anuradha-gh" target="_blank" rel="noreferrer"><img
  src="https://img.shields.io/github/followers/anuradha-gh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
  <br>
- <a href="https://tryhackme.com/p/anuradha.thm"><script src="https://tryhackme.com/badge/2128819"></script></a>
+ <a href="https://tryhackme.com/p/anuradha.thm"><img src="https://tryhackme-badges.s3.amazonaws.com/anuradha.thm.png" alt="TryHackMe"></script></a>
 </p>
 
 <h2 align="center">Yeah! It's me 👽</h2>
