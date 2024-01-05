@@ -37,7 +37,7 @@ Cyber Security undergraduate at SLIIT
 <a href="https://www.github.com/anuradha-gh" target="_blank" rel="noreferrer"><img
  src="https://img.shields.io/github/followers/anuradha-gh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
  <br>
- <a href="https://tryhackme.com/p/anuradha.thm"><img src="https://tryhackme-badges.s3.amazonaws.com/anuradha.thm.png" alt="TryHackMe"></script></a>
+ <a href="https://tryhackme.com/p/anuradha.thm"><img src="https://tryhackme-badges.s3.amazonaws.com/anuradha.thm.png" alt="TryHackMe"></a>
 </p>
 
 <h2 align="center">Yeah! It's me 👽</h2>
