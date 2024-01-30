@@ -43,7 +43,7 @@ Cyber Security undergraduate at SLIIT
 <h2 align="center">Yeah! It's me 👽</h2>
 <br>
 <br>
-<p align="center"><img src="https://media1.tenor.com/m/yOwKX_hMp6cAAAAd/hackerman-rami-malek.gif" width="500px"></p>
+<!--p align="center"><img src="https://media1.tenor.com/m/yOwKX_hMp6cAAAAd/hackerman-rami-malek.gif" width="500px"></p-->
 <br>
 
 
