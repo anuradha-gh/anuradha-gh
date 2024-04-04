@@ -1,4 +1,4 @@
-![enter image description here](https://media.licdn.com/dms/image/D4E16AQHBB3iUKvDglQ/profile-displaybackgroundimage-shrink_350_1400/0/1702385113139?e=1709769600&v=beta&t=9YFAFLhTh3tor8F-9eDfqM0-9YvZSuuFAapOaSxI9U8)
+
 
 
 # Hello, I'm Anuradha Lakshman
