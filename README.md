@@ -2,7 +2,7 @@
 
 
 # Hello, I'm Anuradha Lakshman
-Cyber Security undergraduate at SLIIT   <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2128819" style='border:none;'></iframe>
+Cyber Security undergraduate at SLIIT
 
 --------------------------------
 
