@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif" width="100%" />
+  <img src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif?w=960&h=540&crop=1" width="100%" />
 </div>
 
 <br>
