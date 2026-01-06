@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hello%2C+Friend;I'm+Anuradha+Lakshman;Cyber+Security+Undergraduate;Pentester+%7C+CTF+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9146FF&background=00000000&center=true&vCenter=true&width=435&lines=Hello%2C+Friend;SOC+Analyst+%26+Purple+Teamer;Threat+Hunter+%7C+Incidence+Response;Defending+the+Perimeter" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/L9X2hR5BdRKGw/giphy.gif" width="600" height="250"/>
 </div>
 
-<h3 align="center">🕵️‍♂️ <samp>Identity Verified: Anuradha Lakshman</samp></h3>
+<h3 align="center">🛡️ <samp>Status: Monitoring Traffic...</samp></h3>
 
 <p align="center">
  <samp>
   Based in Sri Lanka 🇱🇰 <br>
   Cyber Security Undergrad @ <a href="https://www.sliit.lk/">SLIIT</a><br>
-  Learning: <b>Network Security, Web Pentesting, Red Teaming</b>
+  Focus: <b>SIEM, Threat Intelligence, Malware Analysis, Purple Teaming</b>
  </samp>
 </p>
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 📡 Live CTF Status
+### 📡 Live Training Status
 <p align="center">
   <a href="https://tryhackme.com/p/anuradha.thm">
     <img src="https://tryhackme-badges.s3.amazonaws.com/anuradha.thm.png" alt="TryHackMe Badge" />
@@ -39,33 +39,44 @@
 
 ---
 
-### 🛠️ Arsenal & Tools
+### 🛡️ Defense & Offense (Purple Team Arsenal)
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-00B0F0?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort-EF4023?style=for-the-badge&logo=snort&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zeek-000000?style=for-the-badge&logo=zeek&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=Burp+Suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-2D2D2D?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalis&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Intelligence
 <div align="center">
-  <a href="https://github.com/anuradha-gh">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuradha-gh&show_icons=true&count_private=true&theme=transparent&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=0d1117&hide_border=true" />
-  </a>
-  <br><br>
-  <a href="https://github.com/anuradha-gh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuradha-gh&langs_count=8&layout=compact&theme=transparent&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=0d1117&hide_border=true" />
-  </a>
+<table>
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/anuradha-gh">
+        <img src="https://github-readme-stats.vercel.app/api?username=anuradha-gh&show_icons=true&count_private=true&title_color=bf91f3&text_color=ffffff&icon_color=38bdae&bg_color=0d1117&hide_border=true" alt="Stats" />
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/anuradha-gh">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuradha-gh&langs_count=8&layout=compact&title_color=bf91f3&text_color=ffffff&icon_color=38bdae&bg_color=0d1117&hide_border=true" alt="Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
