@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9146FF&background=00000000&center=true&vCenter=true&width=435&lines=Hello%2C+Friend;SOC+Analyst+%26+Purple+Teamer;Threat+Hunter+%7C+Incidence+Response;Defending+the+Perimeter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9146FF&background=00000000&center=true&vCenter=true&width=500&lines=Hello%2C+Friend+👽;I+am+Anuradha+😉;SOC+Analyst+%26+Purple+Teamer+⚔️🛡️;Threat+Hunter+%7C+Incident+Response;Defending+the+Perimeter+🛡️" alt="Typing SVG" />
+
 </div>
 
 <br>
